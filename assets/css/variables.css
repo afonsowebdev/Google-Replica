@@ -1,0 +1,10 @@
+:root {
+    --color-background-0: #1F1F1F; /* Página Inteira */
+    --color-background-1: #171717; /* Footer */
+    --color-background-2: #5F6368;
+    --color-background-3: #99C3F1; /* Links */
+
+
+    --font-family-0: "Poppins", sans-serif;
+    --font-family-1: "Open Sans", sans-serif;
+}
